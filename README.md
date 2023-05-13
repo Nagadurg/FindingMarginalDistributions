@@ -70,6 +70,7 @@ print("Covariance Coefficient of Corelation:\t",Covariance_coeff.round(4))
 ```
 
 #output : 
+
 <img width="255" alt="image" src="https://github.com/Nagadurg/FindingMarginalDistributions/assets/94185707/136536ee-28c9-41b3-8cab-e63c7b8ca153">
 
 
